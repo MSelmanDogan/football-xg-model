@@ -36,6 +36,14 @@ xg-model/
 └── README.md
 ```
 
+## Tests
+This project includes basic PyTest scripts to ensure feature engineering and model training run correctly.
+
+Run tests:
+```bash
+pytest -q
+
+
 ## Data sources
 Download required open datasets before running notebooks.
 
