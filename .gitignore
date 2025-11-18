@@ -3,9 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .ipynb_checkpoints/
-data/raw/
-data/processed/
-data/external/
+data/*
 .env
 .venv
 *.egg-info/
